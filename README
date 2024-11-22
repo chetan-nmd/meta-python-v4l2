@@ -1,0 +1,5 @@
+This README file contains meta-python-v4l2 layer which is required to install v4l2 python package which is used by the Vadzo MIPI Camera.
+
+Please see the corresponding sections below for details.
+
+Maintainer: Chetan <chetan@novelmicrodevices.com>
